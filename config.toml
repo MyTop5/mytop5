@@ -2,6 +2,7 @@ baseURL = "https://mytop5.github.io/"
 languageCode = "en-us"
 title = "My Top 5"
 theme = "dream"
+disqusShortname = "my-top-5"
 
 [params]
   author = "Og Maciel"
