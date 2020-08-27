@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:MyTop5/mytop5.github.io.git
+	branch = master
+[submodule "themes/dream"]
+	path = themes/dream
+	url = git@github.com:MyTop5/hugo-theme-dream.git
