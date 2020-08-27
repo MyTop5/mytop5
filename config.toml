@@ -5,7 +5,7 @@ theme = "dream"
 disqusShortname = "my-top-5"
 
 [params]
-  author = "Og Maciel"
+  author = "My Top 5"
   description = "Weekly list of my Top 5 things."
   avatar = "https://avatars0.githubusercontent.com/u/53362"
 
